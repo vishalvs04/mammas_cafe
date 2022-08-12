@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mammas_cafe/static/css/main.4fb69266.css",
+    "main.js": "/mammas_cafe/static/js/main.2ca1ec95.js",
+    "static/js/787.3a97e565.chunk.js": "/mammas_cafe/static/js/787.3a97e565.chunk.js",
+    "static/media/cafe-wallpaper.jpeg": "/mammas_cafe/static/media/cafe-wallpaper.7f385930fbbcaae8d37e.jpeg",
+    "static/media/pic6.jpeg": "/mammas_cafe/static/media/pic6.500a3b6a2f747b870ccb.jpeg",
+    "static/media/pic4.jpeg": "/mammas_cafe/static/media/pic4.98435bec1dafe2572f2f.jpeg",
+    "static/media/pic5.jpeg": "/mammas_cafe/static/media/pic5.6822df6a1fc74d0c2616.jpeg",
+    "static/media/pic8.jpeg": "/mammas_cafe/static/media/pic8.0f40ea503a40e7d8aa33.jpeg",
+    "static/media/pic2.jpeg": "/mammas_cafe/static/media/pic2.4157cea638fda7f8179c.jpeg",
+    "static/media/pic7.jpeg": "/mammas_cafe/static/media/pic7.6d7c6e87ddb54ccc4bb7.jpeg",
+    "static/media/pic3.jpeg": "/mammas_cafe/static/media/pic3.49963fe867ebfa365960.jpeg",
+    "static/media/pic1.jpg": "/mammas_cafe/static/media/pic1.1121ec5b52b587a6de3f.jpg",
+    "index.html": "/mammas_cafe/index.html",
+    "main.4fb69266.css.map": "/mammas_cafe/static/css/main.4fb69266.css.map",
+    "main.2ca1ec95.js.map": "/mammas_cafe/static/js/main.2ca1ec95.js.map",
+    "787.3a97e565.chunk.js.map": "/mammas_cafe/static/js/787.3a97e565.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fb69266.css",
+    "static/js/main.2ca1ec95.js"
+  ]
+}
