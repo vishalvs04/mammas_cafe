@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mammas_cafe/static/css/main.4fb69266.css",
-    "main.js": "/mammas_cafe/static/js/main.ae268acc.js",
+    "main.js": "/mammas_cafe/static/js/main.a030eae1.js",
     "static/js/787.3a97e565.chunk.js": "/mammas_cafe/static/js/787.3a97e565.chunk.js",
     "static/media/cafe-wallpaper.jpeg": "/mammas_cafe/static/media/cafe-wallpaper.7f385930fbbcaae8d37e.jpeg",
     "static/media/pic6.jpeg": "/mammas_cafe/static/media/pic6.500a3b6a2f747b870ccb.jpeg",
@@ -14,11 +14,11 @@
     "static/media/pic1.jpg": "/mammas_cafe/static/media/pic1.1121ec5b52b587a6de3f.jpg",
     "index.html": "/mammas_cafe/index.html",
     "main.4fb69266.css.map": "/mammas_cafe/static/css/main.4fb69266.css.map",
-    "main.ae268acc.js.map": "/mammas_cafe/static/js/main.ae268acc.js.map",
+    "main.a030eae1.js.map": "/mammas_cafe/static/js/main.a030eae1.js.map",
     "787.3a97e565.chunk.js.map": "/mammas_cafe/static/js/787.3a97e565.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4fb69266.css",
-    "static/js/main.ae268acc.js"
+    "static/js/main.a030eae1.js"
   ]
 }
